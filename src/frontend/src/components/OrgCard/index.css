@@ -1,0 +1,26 @@
+.card-content{
+    padding: 5px;
+
+    background-color: #b6e4f3;
+    border-radius: 0px 0px 10px 10px;
+
+    color: #103f4f;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    max-height: 38vh;
+    max-width: 80vw;
+}
+
+.card{
+    padding-top: 5px;
+    border-radius: 10px;
+
+    max-width: 80vw;
+    height: 25%;
+    background: rgb(16,63,79);
+    background: linear-gradient(142deg, rgba(16,63,79,1) 0%, rgba(14,170,231,1) 35%, rgba(56,217,246,1) 100%);
+    color: white;
+}
