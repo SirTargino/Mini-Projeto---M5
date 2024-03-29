@@ -1,0 +1,17 @@
+.sampleText{
+    width: 90vw;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.text-container{
+    width: 100vw;
+}
+
+.sampleText h3{
+    text-shadow: 0 0 1px #242424;
+}
