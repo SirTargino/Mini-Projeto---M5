@@ -1,0 +1,17 @@
+.card {
+    background: rgb(39, 55, 77);
+    background: linear-gradient(159deg, rgba(39, 55, 77, 1) 54%, rgba(82, 109, 130, 1) 84%, rgba(157, 178, 191, 1) 100%);
+    color: white;
+    width: 70vw;
+    padding: 10px;
+    border-radius: 10px;
+    animation-name: appears;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    margin: 0 auto;
+}
+
+@keyframes appears {
+    0% {background: white;}
+    100% {background: rgb(39, 55, 77);}
+}
