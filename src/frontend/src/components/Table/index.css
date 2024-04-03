@@ -1,0 +1,19 @@
+.table{
+    width: 80vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ticons{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    font-size: large;
+}
+
+.ticons hr{
+    height: 60px;
+    border-left: 2px solid gray;
+}

@@ -1,0 +1,15 @@
+footer{
+    width: 100vw;
+    height: 120px;
+    color: white;
+    background-color: rgb(39, 55, 77);
+    text-align: center;
+    font-size: large;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+
