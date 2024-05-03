@@ -1,9 +1,9 @@
 import React from 'react'
-import Header from '../../components/Header/Header.jsx'
-import SampleText from '../../components/Text/SampleText.jsx'
-import TextImage from "../../components/TextImage/TextImage.jsx"
-import Table from '../../components/Table/Table.jsx'
-import Customfooter from '../../components/Footer/Footer.jsx'
+import Header from '../../components/Header/header.jsx'
+import SampleText from '../../components/Text/sampleText.jsx'
+import TextImage from "../../components/TextImage/textImage.jsx"
+import Table from '../../components/Table/table.jsx'
+import Customfooter from '../../components/Footer/footer.jsx'
 
 export default function Home() {
     return (

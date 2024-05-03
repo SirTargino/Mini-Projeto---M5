@@ -2,7 +2,7 @@ import { IoIosMenu } from "react-icons/io";
 import rocket from "../../assets/rocket.svg"
 import "./index.css"
 import { useState } from "react";
-import Menu from "../Menu/Menu.jsx";
+import Menu from "../Menu/menu.jsx";
 
 export default function Header({ image }) {
     const [showMenu, setShowMenu] = useState(false)

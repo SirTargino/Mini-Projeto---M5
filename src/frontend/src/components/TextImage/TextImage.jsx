@@ -1,5 +1,5 @@
 import "./index.css"
-import SampleText from "../Text/SampleText.jsx"
+import SampleText from "../Text/sampleText.jsx"
 
 export default function TextImage({ align, title, text, img }) {
     return (

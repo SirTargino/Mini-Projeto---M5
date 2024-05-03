@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import Header from '../../components/Header/Header.jsx';
-import Card from '../../components/Card/Card.jsx';
-import SampleText from '../../components/Text/SampleText.jsx';
+import Header from '../../components/Header/header.jsx';
+import Card from '../../components/Card/card.jsx';
+import SampleText from '../../components/Text/sampleText.jsx';
 import axios from "axios";
 
 export default function AllLearn() {
